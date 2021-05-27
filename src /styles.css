@@ -13,3 +13,44 @@ h1 {
   positon: relative;
 >>>>>>> Stashed changes
 }
+html {
+  min-height: 100%;
+}
+body {
+  background-size: cover;
+  background-color: #cec3e0;
+  background-repeat: no repeat;
+  max-width: 600 px;
+  color: #695b7e;
+}
+h1 {
+  color: black;
+  font-size: 28px;
+  text-align: left;
+  margin-top: 20px;
+  padding: 10px;
+}
+h2 {
+  color: #fff;
+  font-size: 20px;
+  margin: 60 px 0 0;
+  padding: 10px 5px;
+}
+.category {
+  font-size: 22px;
+  color: black;
+  line-height: 28px;
+}
+.col-sm-2 {
+  font-size: 18px;
+  color: black;
+  line-height: 20px;
+}
+#frame {
+  border-color: blueviolet;
+  border: solid;
+  width: auto;
+  padding: 0.5 em;
+  margin: 0.5 em;
+}
+
